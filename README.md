@@ -1,2 +1,2 @@
 # rootfolder-skabelon
-Skabelon til hjemmeside
+Skabelon til min hjemmeside
